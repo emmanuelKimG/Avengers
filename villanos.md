@@ -2,4 +2,4 @@
  
  * Black adam
  * Doomsday
- * Siniestro
+ * Capitan Ameria
